@@ -2,6 +2,11 @@
   "name": "reack-1-lesson",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vasylbarna.github.io/reack-1-lesson",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VasylBarna/reack-1-lesson.git"
+  },
   "dependencies": {
     "@material-ui/core": "^4.12.1",
     "@testing-library/jest-dom": "^5.14.1",
